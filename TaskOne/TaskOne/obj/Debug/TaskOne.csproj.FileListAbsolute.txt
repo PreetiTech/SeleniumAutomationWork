@@ -1,0 +1,17 @@
+C:\Users\preetisaxena\source\repos\TaskOne\TaskOne\bin\Debug\TaskOne.exe.config
+C:\Users\preetisaxena\source\repos\TaskOne\TaskOne\bin\Debug\TaskOne.exe
+C:\Users\preetisaxena\source\repos\TaskOne\TaskOne\bin\Debug\TaskOne.pdb
+C:\Users\preetisaxena\source\repos\TaskOne\TaskOne\obj\Debug\TaskOne.csprojResolveAssemblyReference.cache
+C:\Users\preetisaxena\source\repos\TaskOne\TaskOne\obj\Debug\TaskOne.csproj.CoreCompileInputs.cache
+C:\Users\preetisaxena\source\repos\TaskOne\TaskOne\obj\Debug\TaskOne.exe
+C:\Users\preetisaxena\source\repos\TaskOne\TaskOne\obj\Debug\TaskOne.pdb
+C:\Users\preetisaxena\source\repos\TaskOne\TaskOne\bin\Debug\nunit.framework.dll
+C:\Users\preetisaxena\source\repos\TaskOne\TaskOne\bin\Debug\WebDriver.dll
+C:\Users\preetisaxena\source\repos\TaskOne\TaskOne\bin\Debug\nunit.framework.pdb
+C:\Users\preetisaxena\source\repos\TaskOne\TaskOne\bin\Debug\nunit.framework.xml
+C:\Users\preetisaxena\source\repos\TaskOne\TaskOne\bin\Debug\WebDriver.xml
+C:\Users\preetisaxena\source\repos\TaskOne\TaskOne\obj\Debug\TaskOne.csproj.CopyComplete
+C:\Users\preetisaxena\source\repos\TaskOne\TaskOne\bin\Debug\Simplify.Resources.dll
+C:\Users\preetisaxena\source\repos\TaskOne\TaskOne\bin\Debug\Simplify.Windows.Forms.dll
+C:\Users\preetisaxena\source\repos\TaskOne\TaskOne\bin\Debug\Simplify.Resources.xml
+C:\Users\preetisaxena\source\repos\TaskOne\TaskOne\bin\Debug\Simplify.Windows.Forms.xml

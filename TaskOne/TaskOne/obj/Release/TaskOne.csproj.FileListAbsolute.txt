@@ -1,0 +1,6 @@
+C:\Users\preetisaxena\source\repos\TaskOne\TaskOne\bin\Release\TaskOne.exe.config
+C:\Users\preetisaxena\source\repos\TaskOne\TaskOne\bin\Release\TaskOne.exe
+C:\Users\preetisaxena\source\repos\TaskOne\TaskOne\bin\Release\TaskOne.pdb
+C:\Users\preetisaxena\source\repos\TaskOne\TaskOne\obj\Release\TaskOne.csproj.CoreCompileInputs.cache
+C:\Users\preetisaxena\source\repos\TaskOne\TaskOne\obj\Release\TaskOne.exe
+C:\Users\preetisaxena\source\repos\TaskOne\TaskOne\obj\Release\TaskOne.pdb
